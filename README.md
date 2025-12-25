@@ -39,19 +39,19 @@ This project follows the **MVC (Model-View-Controller)** architecture and the **
 ## 📸 Screenshots
 
 ### Homepage & Search
-![Homepage](assets/home.jpg)
+![Homepage](assets/home.jpg)<br>
 *User-friendly interface for searching bus trips.*
 
 ### Seat Selection
-![Seat Selection](assets/seat_selection.jpg)
+![Seat Selection](assets/seat_selection.jpg)<br>
 *Interactive seat map for passengers.*
 
 ### Admin Dashboard & Statistics
-![Admin Dashboard](assets/admin_dashboard.jpg)
+![Admin Dashboard](assets/admin_dashboard.jpg)<br>
 *Financial statistics and trip management overview.*
 
 ### QR Code Ticket Validation
-![QR Scan](assets/ticket.jpg)
+![QR Scan](assets/ticket.jpg)<br>
 *these are the tickets that can the admin scan to validate.*
 
 
